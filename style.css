@@ -3,5 +3,9 @@ body {
 }
 
 h1 {
+<<<<<<< HEAD
     color: red;
+=======
+    color: green;
+>>>>>>> feat/test1
 }
