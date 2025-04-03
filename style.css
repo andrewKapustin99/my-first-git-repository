@@ -5,3 +5,10 @@ body {
 h1 {
     color: red;
 }
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 8px;
+}
